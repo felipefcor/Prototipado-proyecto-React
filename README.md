@@ -1,4 +1,4 @@
-<h2>**Prototipado de proyecto web de Fisioterapia en React**
+<h2>**Prototipado de proyecto web de Fisioterapia en React**</h2>
 
 Se puede ver el código explicado en los artículos de mi blog:
 
